@@ -1,0 +1,144 @@
+
+
+.container{
+    text-align: center;
+   justify-content: space-between;
+}
+.pic{
+    width: 85%;
+    height: 850px;
+  padding-left: 7%;
+ 
+}
+.words{
+  position: absolute;
+  top:30% ;
+  left: 25%;
+  color: rgb(13, 13, 14);
+}
+.define{
+   text-align: center;
+}
+.image{
+    display: flex;
+    padding-left: 7%;
+    justify-content: space-between;
+}
+.lolo{
+    width: 400px;
+    height: 300px;
+}
+.hair{
+    width: 400px;
+    height: 300px;   
+}
+.july{
+    width: 400px;
+    height: 300px;
+}
+.original{
+    display: flex;
+    padding-left: 7%;
+}
+.learn{
+    width: 900px;
+    height: 600px;
+}
+.word{
+    border: solid rgb(87, 87, 173);
+    background-color: rgb(87, 87, 173);
+    width: 600px;
+}
+.flex{
+    display: flex;
+    padding-left: 15%;
+    justify-content: space-between;
+}
+.phone{
+    text-align: center;
+}
+.services{
+    border: solid  rgb(243, 186, 186);
+    background-color: rgb(243, 186, 186);
+    /* width: 65%; */
+    height: 500px;
+    padding-left: 10%;
+}
+.con{
+    width: 100px;
+}
+.kan{
+    width: 100px;
+}
+.online{
+    display: flex;
+    padding-left: 20%;
+}
+.general{
+    width: 900px;
+    height: 600px;  
+}
+.lesson{
+    border: solid gray;
+    width: 900px;
+    background-color: rgb(214, 210, 210);
+
+   
+}
+.bottle{
+    text-align: center;
+}
+.people{
+    display: flex;
+    padding-left: 15%;
+    /* border: solid grey;
+    height: 500px;
+    width: 900px; */
+    justify-content: space-between;
+}
+.mercy{
+    height: 150px;
+    border-radius: 50%;
+}
+.ruth{
+    height: 170px;
+    width: 160px;
+    border-radius: 50%;
+}
+.four{
+    display: flex;
+    justify-content: space-between;
+    border:solid rgb(243, 186, 186);
+    height: 350px;
+    background-color:rgb(243, 186, 186);
+}
+.fei{
+    width: 100px;  
+}
+.foi{
+    width: 100px;
+}
+.fui{
+    width: 100px;
+}
+.lap{
+    display: flex;
+    padding-left: 5%;
+    justify-content: space-between;
+}
+.notes{
+    text-align: center;
+     
+}
+.boy{
+width: 500px;
+}
+.baby{
+width: 500px;   
+}
+
+.book{
+    display: flex;
+   
+}
+
